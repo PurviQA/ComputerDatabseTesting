@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="10735" started-at="2017-07-11T07:38:16Z" finished-at="2017-07-11T07:38:27Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="10735" started-at="2017-07-11T07:38:16Z" finished-at="2017-07-11T07:38:27Z">
+      <class name="com.training.computerDatabase.UITest">
+        <test-method status="PASS" signature="loadBrowser()[pri:0, instance:com.training.computerDatabase.UITest@47f6473]" name="loadBrowser" is-config="true" duration-ms="2941" started-at="2017-07-11T13:08:16Z" finished-at="2017-07-11T13:08:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadBrowser -->
+        <test-method status="PASS" signature="addComputer()[pri:0, instance:com.training.computerDatabase.UITest@47f6473]" name="addComputer" duration-ms="3146" started-at="2017-07-11T13:08:22Z" finished-at="2017-07-11T13:08:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addComputer -->
+        <test-method status="PASS" signature="loadSite()[pri:0, instance:com.training.computerDatabase.UITest@47f6473]" name="loadSite" duration-ms="260" started-at="2017-07-11T13:08:25Z" finished-at="2017-07-11T13:08:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadSite -->
+        <test-method status="PASS" signature="searchComputer()[pri:0, instance:com.training.computerDatabase.UITest@47f6473]" name="searchComputer" duration-ms="1250" started-at="2017-07-11T13:08:26Z" finished-at="2017-07-11T13:08:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchComputer -->
+      </class> <!-- com.training.computerDatabase.UITest -->
+      <class name="com.training.computerDatabase.ApiTest">
+        <test-method status="PASS" signature="gettingDataFromInput()[pri:0, instance:com.training.computerDatabase.ApiTest@15975490]" name="gettingDataFromInput" duration-ms="3106" started-at="2017-07-11T13:08:19Z" finished-at="2017-07-11T13:08:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gettingDataFromInput -->
+      </class> <!-- com.training.computerDatabase.ApiTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
